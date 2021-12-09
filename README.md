@@ -7,3 +7,7 @@
 * Connectedness and robustness
 * Transition from Regular to Small World and Random Erdos-Renyi topologies
 * Real network type recognition
+
+### Lab2:
+* Comparison of real networks with synthetic topologies
+* Community detection using various techniques (Spectral Clustering, Newman-Girvan, Modularity Maximization)
