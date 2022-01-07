@@ -11,3 +11,8 @@
 ### Lab2:
 * Comparison of real networks with synthetic topologies
 * Community detection using various techniques (Spectral Clustering, Newman-Girvan, Modularity Maximization)
+
+### Lab3:
+* Similarity-based metrics for Link prediction (Jaccard Coefficient, Preferential Attachment, Resource Allocation)
+* Link prediction based on said metrics
+* Link prediction based on Random Walks with the use of Node2Vec algorithm
